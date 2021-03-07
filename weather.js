@@ -62,5 +62,5 @@ async function myFunction() {
     outside_temp = outside_temp.toString();
     ans = ans.toString();
     
-    document.getElementById("demo").innerHTML = "We recommend that you set your thermostat to " + outside_temp + " degrees Fahrenheit and we estimate the heat cost will be around " + ans + " U.S. dollars per 12 hours.";
+    document.getElementById("demo").innerHTML = "We recommend that you set your thermostat to " + outside_temp + " degrees Fahrenheit and we estimate the heat cost will be around " + ans + " U.S. dollars per hour.";
 }
