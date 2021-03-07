@@ -1,0 +1,32 @@
+body {
+    background: #999;
+    font-family: arial;
+}
+h1 {
+    color: #555;
+}
+h2 {
+    color: red;
+}
+a {
+    color: green;
+}
+p{
+    background: #666;
+    color:white;
+    padding: 10px 10px 10px 10px;
+
+}
+.secondary {
+    background:orange;
+    color: black;
+}
+.tertiary {
+    background:yellow;
+    color: purple;
+}
+#special {
+    background:green;
+    color: darkorchid;
+    padding: 10px
+}
